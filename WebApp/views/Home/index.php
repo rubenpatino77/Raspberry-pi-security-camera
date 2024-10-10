@@ -11,7 +11,7 @@
 <body class="text-center">
   <div class="bg-dark w-75 py-5 my-5 container rounded-pill">
     <h1 class="h1 mb-3 pb-4 fw-normal text-white">Please sign in</h1>
-    <form class="w-75 p-3 d-grid gap-2 col-6 mx-auto bg-secondary rounded">
+    <form class="w-75 p-3 d-grid gap-2 col-6 mx-auto bg-secondary rounded" action="/../User/homePage.php" method="post">
 
       <div class="form-floating">
         <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
