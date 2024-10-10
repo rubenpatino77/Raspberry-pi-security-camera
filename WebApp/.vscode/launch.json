@@ -12,7 +12,7 @@
                 "-S",
                 "localhost:8000",
                 "-t",
-                "./views/Home"
+                "."
             ],
             "port": 9003,
             "serverReadyAction": {
